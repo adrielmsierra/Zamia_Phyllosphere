@@ -1,4 +1,4 @@
-# Zamia_Phyllosphere
+# Zamia Phyllosphere
 Reproducible scripts towards the understanding of Zamia phyllosphere
   
   * Data
