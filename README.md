@@ -6,9 +6,7 @@ Reproducible scripts towards the understanding of Zamia phyllosphere
 * [Microbiota](https://github.com/adrielmsierra/Zamia_Phyllosphere/tree/main/Data/Microbiota)
 
 ## Metabolome Analysis
-```{r}
-Library
-```
+
 ## Microbiota Analysis
 
 ## Integrate Metabolome-Microbiota Analysis
