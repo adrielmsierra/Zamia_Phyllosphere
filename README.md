@@ -1,4 +1,4 @@
-#[**Leaf Endophytes Relationship with Host Metabolome Expression in Tropical Gymnosperms**](https://link.springer.com/article/10.1007/s10886-024-01511-z?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240529&utm_content=10.1007%2Fs10886-024-01511-z)
+# [**Leaf Endophytes Relationship with Host Metabolome Expression in Tropical Gymnosperms**](https://link.springer.com/article/10.1007/s10886-024-01511-z?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240529&utm_content=10.1007%2Fs10886-024-01511-z)
 
 This repository contains the data used and reproducible scripts. 
 
