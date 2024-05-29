@@ -1,6 +1,4 @@
-# [**Leaf Endophytes Relationship with Host Metabolome Expression in Tropical Gymnosperms**](https://link.springer.com/article/10.1007/s10886-024-01511-z?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240529&utm_content=10.1007%2Fs10886-024-01511-z)
-
-This repository contains the data used and reproducible scripts. 
+# [**Leaf Endophytes Relationship with Host Metabolome Expression in Tropical Gymnosperms**](https://link.springer.com/article/10.1007/s10886-024-01511-z?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240529&utm_content=10.1007%2Fs10886-024-01511-z) 
 
 #### Abstract
 
@@ -20,7 +18,9 @@ orders Chaetothyriales, Glomerellales, Heliotiales, Hypocreales, and Sordariales
 similarity with four specific fungal endophyte members of the core microbiota, but no specific bacterial taxa associations
 were identified. This study represents a pioneering investigation to characterize leaf endophytes and their association with
 metabolomes in tropical gymnosperms, laying the groundwork for deeper inquiries into this complex domain.
-  
+
+This repository contains the data and reproducible scripts to characterized the leaf microbiota (bacteria and fungi) and foliar metabolomes.
+
 ## Data
 * [Metabolome](https://github.com/adrielmsierra/Zamia_Phyllosphere/tree/main/Data/Metabolome)
 * [Microbiota](https://github.com/adrielmsierra/Zamia_Phyllosphere/tree/main/Data/Microbiota)
